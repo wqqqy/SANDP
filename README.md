@@ -30,7 +30,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |18|2020.6.5|付冲<br>王琴应|| | BIAS: Bluetooth Impersonation AttackS, IEEE S&P 2020
 |19|2020.6.12|付之笑<br>王赛卓||
 |20|2020.6.19|付丽嫆<br>王博||
-|21|2020.6.26|方佳<br>陈安莹|Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning,  IEEE S&P 2020|
+|21|2020.6.26|方佳<br>陈安莹|Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning,  IEEE S&P 2020| 
 |22|2020.7.3|杜天宇<br>伍一鸣||
 |23|2020.7.10|施程辉<br>吕晨阳||
 |24|2020.7.17|吴含露<br>马哲||
